@@ -1,6 +1,6 @@
 {
   "name": "tailwind-match-container",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tailwind plugin to allow you to add padding that matches the lines up with the existing container",
   "main": "index.js",
   "scripts": {
